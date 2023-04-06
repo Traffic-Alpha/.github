@@ -1,5 +1,5 @@
 <div align=center>
-    <img src=https://github.com/Lab-for-Comm-Remote-Sensing-CUHKSZ/.github/blob/main/profile/banner.jpg>
+    <img src=https://github.com/Traffic-Alpha/.github/blob/main/profile/banner.jpg>
 </div>
 
 ---
