@@ -13,3 +13,5 @@
 
 
 Our group is focused on building sustainable and affordable transportation systems that make use of advanced technologies to meet the needs of modern society. The project aims to provide effective solutions to transportation problems, ensuring that cities are better connected and more efficient for all.
+
+Our homepage is [Laboratory of Sensing and Communication for Smart City](https://mypage.cuhk.edu.cn/academics/simonpun/index.html).
